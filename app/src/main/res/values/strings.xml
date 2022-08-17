@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Diktat</string>
+    <string name="diktat_name">Diktat 1</string>
+
+    <string name="all_diktat">Alle Diktat</string>
+
+    <string name="add_new">Neues Wort hinzufügen</string>
+    <string name="artikel">Artikel</string>
+    <string name="word">Wort</string>
+    <string name="plural">Plural</string>
+    <string name="save">Speichern</string>
+    <string name="success_adding_word">Erfolgreich Neues Wort hinzugefügt</string>
+    <string name="success_updating_word">das Wort erfolgreich aktualisiert</string>
+    <string name="success_adding_category">Erfolgreich Neue Kategorie hinzugefügt</string>
+    <string name="success_updating_category">Kategorie erfolgreich aktualisiert</string>
+    <string name="fill_fields">Bitte fülle alle Felder aus</string>
+    <string name="select_cat">Bitte Kategorie auswählen</string>
+
+    <string name="new_cat">Neues Diktat</string>
+    <string name="fragment_add_cat">Kategorie hinzufügen</string>
+    <string name="update">Aktualisieren</string>
+    <string name="btn_check">Prüfen</string>
+    <string name="enter_word">Geb das Wort ein</string>
+
+    <string name="diktat_test_action_bar__title">Diktiertest</string>
+    <string name="diktat_test_title">( %1$d /%2$d)</string>
+    <string name="no_words">Keine Wörter in diesem Diktat</string>
+
+    <string name="words_list_title">Wörter in: ( %s)</string>
+    <string name="test">Prüfung</string>
+
+    <string name="fragment_result_title">Dein Ergebnis</string>
+    <string name="result_wrong">Falsch</string>
+    <string name="result_right">Rechtig</string>
+    <string name="result_words">Wörter</string>
+    <string name="btn_result_again">Nochmal</string>
+    <string name="btn_result_exit">Stornieren</string>
+    <string name="alert_msg_sure_delete">Bist du sicher?</string>
+    <string name="alert_positive_btn">Ja</string>
+    <string name="alert_negative_btn">Nein</string>
+
+
+</resources>
